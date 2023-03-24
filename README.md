@@ -1,8 +1,9 @@
 # SQL-Project-1
 Hi there!
+
 This is my first SQL project. All the dataset, ER diagrams and database used were obtained from Coursera course; SQL for Data Science (from University of California, Davis)
 
-Herewith are some guidance on how to review my Files & Issues for this project:
+Herewith are some guidances on how to review and navigate my FILES & ISSUES for this project:
 
 FILES:
 1) Assignment Questions = List of questions for this project
@@ -11,6 +12,8 @@ FILES:
 
 ISSUES:
 1) Image ER Diagram = Image attached of the ER Diagram
-2) Image ER Diagram (Web Version) = Link to see those ER Diagran
+2) Image ER Diagram (Web Version) = Link to see those ER Diagram
+
+Feel free to give comments or feedback for my projects.
 
 Thanks!
