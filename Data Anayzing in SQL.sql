@@ -84,7 +84,7 @@ SKills used: Checking Null Values, Mathematical Function, Grouping and Sorting D
 	|   5.0 |                  3 |
 	+-------+--------------------+
 
-  -- City: Beachwood
+	-- City: Beachwood
 	SELECT Stars, SUM (review_count) AS Star_ratings_count
 	FROM Business
 	WHERE City = 'Beachwood'
