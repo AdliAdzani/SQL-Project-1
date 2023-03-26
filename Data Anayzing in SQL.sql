@@ -5,7 +5,6 @@ SKills used: Checking Null Values, Mathematical Function, Grouping and Sorting D
 
 -- Data Cleaning for the USers Table, by checking whether there is Null values or not.
 
-	SELECT
 	SELECT * FROM User
 	  WHERE (id IS NULL 
 		OR name IS NULL
@@ -34,7 +33,7 @@ SKills used: Checking Null Values, Mathematical Function, Grouping and Sorting D
 	FROM Business
 	GROUP BY City
 	ORDER BY Total_reviews DESC;
-	  
+
 	+-----------------+---------------+
 	| city            | Total_reviews |
 	+-----------------+---------------+
